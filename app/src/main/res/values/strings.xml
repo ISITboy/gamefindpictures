@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Testing task</string>
+
+
+    <string name="privacy_policy_label">Privacy Policy</string>
+    <string name="menu_scene_label">Game Logo №1</string>
+    <string name="menu_scene_button_label">PLAY</string>
+    <string name="end_game_scene_label1">[CONGRATULATION!]</string>
+    <string name="end_game_scene_label2">[Great! You Won!]</string>
+    <string name="end_game_scene_button">Double Reward</string>
+
+
+</resources>
